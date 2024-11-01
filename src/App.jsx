@@ -5,7 +5,7 @@ export default function App() {
 
   return (
     <div className="cards--section">
-        <Card ids={[1,3]}/>
+        <Card ids={[1,2]}/>
     </div>
   )
 }
